@@ -29,3 +29,4 @@ description = "Allows AI agents (e.g., Cursor, Claude Code) to debug within Taur
 # drop an unused branch
 # guard against empty input
 # handle the edge case from the last release
+# drop an unused branch
